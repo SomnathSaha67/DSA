@@ -1,24 +1,30 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1480-running-sum-of-1d-array](https://github.com/SomnathSaha67/DSA/tree/master/1480-running-sum-of-1d-array) |
-## Prefix Sum
-|  |
-| ------- |
-| [1480-running-sum-of-1d-array](https://github.com/SomnathSaha67/DSA/tree/master/1480-running-sum-of-1d-array) |
-## Math
-|  |
-| ------- |
-| [0507-perfect-number](https://github.com/SomnathSaha67/DSA/tree/master/0507-perfect-number) |
-## Two Pointers
-|  |
-| ------- |
-| [0344-reverse-string](https://github.com/SomnathSaha67/DSA/tree/master/0344-reverse-string) |
-## String
-|  |
-| ------- |
-| [0344-reverse-string](https://github.com/SomnathSaha67/DSA/tree/master/0344-reverse-string) |
-<!---LeetCode Topics End-->
+# DSA Solutions
+
+A curated repository containing my solutions to Data Structures and Algorithms problems across various competitive programming and coding practice platforms, automatically synced using **[LeetHub v2](https://github.com/arun97/LeetHub-v2)**.
+
+---
+
+## Repository Purpose
+
+This repository serves as a central archive of my problem-solving journey to prepare for technical coding interviews, improve algorithmic thinking, and maintain continuous coding activity.
+
+---
+
+## Covered Platforms
+
+- **LeetCode**
+- **GeeksforGeeks**
+- **HackerRank**
+
+---
+
+## Repository Structure
+
+The folder hierarchy is organized by platform and core algorithmic topics. You can explore the codebase directly through the file tree:
+
+- Solutions are structured into topic-based or platform-based directories.
+- Each directory contains:
+  - Source code files implementation.
+  - Dedicated documentation (`README.md`) detailing the exact problem statement, constraints, and approach where generated.
+
+---

@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/SomnathSaha67/DSA/tree/master/1480-running-sum-of-1d-array) |
+## Math
+|  |
+| ------- |
+| [0507-perfect-number](https://github.com/SomnathSaha67/DSA/tree/master/0507-perfect-number) |
 <!---LeetCode Topics End-->

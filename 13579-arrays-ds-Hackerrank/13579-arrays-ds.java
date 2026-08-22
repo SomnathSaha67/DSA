@@ -1,23 +1,25 @@
-*
-     * The function is expected to return an INTEGER_ARRAY.
-     * The function accepts INTEGER_ARRAY a as parameter.
-     */
+List<Integer> arr = new ArrayList<>();
 
-    public static List<Integer> reverseArray(List<Integer> a) {
-    // Write your code here
-        int start=0;
-        int end= a.size()-1;
-        while (start<end){
-            int temp= a.get(start);
-            a.set(start, a.get(end));
-            a.set(end,temp);
-            start++;
-            end--;
+        for (int i = 0; i < arrCount; i++) {
+            int arrItem = Integer.parseInt(arrTemp[i]);
+            arr.add(arrItem);
         }
-        return a;
 
+        List<Integer> res = Result.reverseArray(arr);
+
+        for (int i = 0; i < res.size(); i++) {
+            bufferedWriter.write(String.valueOf(res.get(i)));
+
+            if (i != res.size() - 1) {
+                bufferedWriter.write(" ");
+            }
+        }
+
+        bufferedWriter.newLine();
+
+        bufferedReader.close();
+        bufferedWriter.close();
     }
-
 }
 
 // Synced seamlessly with LeetHub Pro

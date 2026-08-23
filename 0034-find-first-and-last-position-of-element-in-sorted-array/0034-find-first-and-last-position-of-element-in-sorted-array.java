@@ -2,7 +2,8 @@ class Solution {
     public int[] searchRange(int[] nums, int target) {
         int[]ans={-1, -1};
         ans[0]= searchIndex(nums, target, true);
-        ans[1]= searchIndex(nums, target, false);
+        if (ans[0]!=-1)
+            ans[1]= searchIndex(nums, target, false);
         return ans;
     }
     public int searchIndex(int[]nums, int target, boolean firstIndex){

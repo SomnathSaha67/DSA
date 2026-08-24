@@ -28,6 +28,3 @@ The folder hierarchy is organized by platform and core algorithmic topics. You c
   - Dedicated documentation (`README.md`) detailing the exact problem statement, constraints, and approach where generated.
 
 ---
-
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SomnathSaha67/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-<!---LeetCode Topics End-->

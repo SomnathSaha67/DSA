@@ -12,8 +12,6 @@ class Solution {
                 if(sum+num>mid){
                     sum= num;
                     pieces++;
-                    if (pieces>k)
-                        break;
                 }else
                     sum+=num;    
             }

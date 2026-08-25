@@ -2,8 +2,9 @@ class Solution {
     public boolean searchMatrix(int[][] matrix, int target) {
         int ele=-1;
         for (int[]row:matrix){
-            ele= binarySearch(row, target);
-            if(ele!=-1)
+            if(target<row[0] || target>row[row.length-1])
+                continue;
+            if (binarySearch(row, target)!=-1)
                 return true;
         }
         return false;

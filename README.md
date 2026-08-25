@@ -34,6 +34,7 @@ The folder hierarchy is organized by platform and core algorithmic topics. You c
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/SomnathSaha67/DSA/tree/master/0027-remove-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SomnathSaha67/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Binary Search
 |  |
@@ -47,4 +48,8 @@ The folder hierarchy is organized by platform and core algorithmic topics. You c
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/SomnathSaha67/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/SomnathSaha67/DSA/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->

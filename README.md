@@ -37,10 +37,12 @@ The folder hierarchy is organized by platform and core algorithmic topics. You c
 | [0027-remove-element](https://github.com/SomnathSaha67/DSA/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SomnathSaha67/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SomnathSaha67/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [1095-find-in-mountain-array](https://github.com/SomnathSaha67/DSA/tree/master/1095-find-in-mountain-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/SomnathSaha67/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [1095-find-in-mountain-array](https://github.com/SomnathSaha67/DSA/tree/master/1095-find-in-mountain-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -54,4 +56,12 @@ The folder hierarchy is organized by platform and core algorithmic topics. You c
 | ------- |
 | [0027-remove-element](https://github.com/SomnathSaha67/DSA/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SomnathSaha67/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/SomnathSaha67/DSA/tree/master/1095-find-in-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/SomnathSaha67/DSA/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->

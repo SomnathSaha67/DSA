@@ -29,6 +29,5 @@ The folder hierarchy is organized by platform and core algorithmic topics. You c
 
 ---
 
-| [0852-peak-index-in-a-mountain-array](https://github.com/SomnathSaha67/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/SomnathSaha67/DSA/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->

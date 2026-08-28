@@ -28,6 +28,3 @@ The folder hierarchy is organized by platform and core algorithmic topics. You c
   - Dedicated documentation (`README.md`) detailing the exact problem statement, constraints, and approach where generated.
 
 ---
-
-| [1095-find-in-mountain-array](https://github.com/SomnathSaha67/DSA/tree/master/1095-find-in-mountain-array) |
-<!---LeetCode Topics End-->

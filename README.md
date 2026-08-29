@@ -38,9 +38,14 @@ The folder hierarchy is organized by platform and core algorithmic topics. You c
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/SomnathSaha67/DSA/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/SomnathSaha67/DSA/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/SomnathSaha67/DSA/tree/master/0412-fizz-buzz) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/SomnathSaha67/DSA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->

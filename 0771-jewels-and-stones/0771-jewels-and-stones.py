@@ -7,9 +7,7 @@ class Solution(object):
         """
         c=0
         for char in jewels:
-            for mar in stones:
-                if char==mar:
-                    c+=1
+            c+=stones.count(char)
         return c
 
 # Synced seamlessly with LeetHub Pro

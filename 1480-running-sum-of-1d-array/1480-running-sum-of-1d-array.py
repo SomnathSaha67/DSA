@@ -4,9 +4,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        lst=[]
-        for i in range(len(nums)):
-            lst.append(sum(nums[0:i+1]))
+        lst=[sum(nums[0:i+1]) for i in range(len(nums))]
         return lst
 
 # Synced seamlessly with LeetHub Pro

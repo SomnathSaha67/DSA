@@ -4,7 +4,11 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        lst=[sum(nums[0:i+1]) for i in range(len(nums))]
+        total=0
+        lst=[]
+        for n in nums:
+            total+=n
+            lst.append(total)
         return lst
 
 # Synced seamlessly with LeetHub Pro

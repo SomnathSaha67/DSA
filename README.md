@@ -35,6 +35,7 @@ The folder hierarchy is organized by platform and core algorithmic topics. You c
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/SomnathSaha67/DSA/tree/master/0412-fizz-buzz) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/SomnathSaha67/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## String
 |  |
 | ------- |
@@ -57,4 +58,8 @@ The folder hierarchy is organized by platform and core algorithmic topics. You c
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/SomnathSaha67/DSA/tree/master/0771-jewels-and-stones) |
+## Array
+|  |
+| ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/SomnathSaha67/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->

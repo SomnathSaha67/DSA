@@ -61,6 +61,7 @@ The folder hierarchy is organized by platform and core algorithmic topics. You c
 ## Array
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/SomnathSaha67/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SomnathSaha67/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/SomnathSaha67/DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/SomnathSaha67/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -73,4 +74,8 @@ The folder hierarchy is organized by platform and core algorithmic topics. You c
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/SomnathSaha67/DSA/tree/master/1672-richest-customer-wealth) |
+## Binary Search
+|  |
+| ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/SomnathSaha67/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->

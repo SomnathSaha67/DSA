@@ -37,6 +37,7 @@ The folder hierarchy is organized by platform and core algorithmic topics. You c
 | [0412-fizz-buzz](https://github.com/SomnathSaha67/DSA/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SomnathSaha67/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SomnathSaha67/DSA/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/SomnathSaha67/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## String
 |  |
 | ------- |
@@ -68,6 +69,7 @@ The folder hierarchy is organized by platform and core algorithmic topics. You c
 | [1480-running-sum-of-1d-array](https://github.com/SomnathSaha67/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/SomnathSaha67/DSA/tree/master/1672-richest-customer-wealth) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SomnathSaha67/DSA/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/SomnathSaha67/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Prefix Sum
 |  |
 | ------- |

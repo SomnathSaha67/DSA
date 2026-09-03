@@ -1,27 +1,31 @@
 class Solution(object):
     def uniformArray(self, nums1):
-        odds, evens = 0, 0
         min_odd, min_even = float('inf'), float('inf')
+        has_odd, has_even = False, False
         for x in nums1:
-            if x % 2:
-                odds += 1
-                min_odd = min(min_odd, x)
+            if x & 1:
+                has_odd = True
+                if x < min_odd:
+                    min_odd = x
             else:
-                evens += 1
-                min_even = min(min_even, x)
-        if odds == 0 or evens == 0:
+                has_even = True
+                if x < min_even:
+                    min_even = x
+        if not has_odd or not has_even:
             return True
-        can_all_odd = True
+        ok = True
         for x in nums1:
-            if x % 2 == 0:  
-                if (x - min_odd) < 1 or (x - min_odd) % 2 == 0:
-                    can_all_odd = False
+            if (x & 1) == 0:
+                diff = x - min_odd
+                if diff < 1 or (diff & 1) == 0:
+                    ok = False
                     break
-        if can_all_odd:
+        if ok:
             return True
         for x in nums1:
-            if x % 2 == 1: 
-                if (x - min_even) < 1 or (x - min_even) % 2 == 1:
+            if (x & 1) == 1:
+                diff = x - min_even
+                if diff < 1 or (diff & 1) == 1:
                     return False
         return True
 

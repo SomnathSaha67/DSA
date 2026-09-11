@@ -36,6 +36,7 @@ The folder hierarchy is organized by platform and core algorithmic topics. You c
 | ------- |
 | [0412-fizz-buzz](https://github.com/SomnathSaha67/DSA/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SomnathSaha67/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2235-add-two-integers](https://github.com/SomnathSaha67/DSA/tree/master/2235-add-two-integers) |
 | [3870-count-commas-in-range](https://github.com/SomnathSaha67/DSA/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SomnathSaha67/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SomnathSaha67/DSA/tree/master/3876-construct-uniform-parity-array-ii) |

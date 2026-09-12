@@ -34,6 +34,7 @@ The folder hierarchy is organized by platform and core algorithmic topics. You c
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/SomnathSaha67/DSA/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/SomnathSaha67/DSA/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SomnathSaha67/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/SomnathSaha67/DSA/tree/master/2235-add-two-integers) |
@@ -84,4 +85,12 @@ The folder hierarchy is organized by platform and core algorithmic topics. You c
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SomnathSaha67/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/SomnathSaha67/DSA/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/SomnathSaha67/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->

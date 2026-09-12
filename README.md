@@ -49,6 +49,7 @@ The folder hierarchy is organized by platform and core algorithmic topics. You c
 | [0125-valid-palindrome](https://github.com/SomnathSaha67/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/SomnathSaha67/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SomnathSaha67/DSA/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/SomnathSaha67/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/SomnathSaha67/DSA/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/SomnathSaha67/DSA/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/SomnathSaha67/DSA/tree/master/0771-jewels-and-stones) |
@@ -69,6 +70,7 @@ The folder hierarchy is organized by platform and core algorithmic topics. You c
 | [0049-group-anagrams](https://github.com/SomnathSaha67/DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/SomnathSaha67/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SomnathSaha67/DSA/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/SomnathSaha67/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/SomnathSaha67/DSA/tree/master/0771-jewels-and-stones) |
 ## Array
 |  |
@@ -109,4 +111,12 @@ The folder hierarchy is organized by platform and core algorithmic topics. You c
 | [0049-group-anagrams](https://github.com/SomnathSaha67/DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/SomnathSaha67/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SomnathSaha67/DSA/tree/master/0242-valid-anagram) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/SomnathSaha67/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/SomnathSaha67/DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->

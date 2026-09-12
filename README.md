@@ -45,6 +45,7 @@ The folder hierarchy is organized by platform and core algorithmic topics. You c
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SomnathSaha67/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/SomnathSaha67/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/SomnathSaha67/DSA/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/SomnathSaha67/DSA/tree/master/0412-fizz-buzz) |
@@ -64,11 +65,13 @@ The folder hierarchy is organized by platform and core algorithmic topics. You c
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SomnathSaha67/DSA/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/SomnathSaha67/DSA/tree/master/0049-group-anagrams) |
 | [0771-jewels-and-stones](https://github.com/SomnathSaha67/DSA/tree/master/0771-jewels-and-stones) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SomnathSaha67/DSA/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/SomnathSaha67/DSA/tree/master/0049-group-anagrams) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SomnathSaha67/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SomnathSaha67/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/SomnathSaha67/DSA/tree/master/1470-shuffle-the-array) |
@@ -96,4 +99,8 @@ The folder hierarchy is organized by platform and core algorithmic topics. You c
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/SomnathSaha67/DSA/tree/master/0231-power-of-two) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/SomnathSaha67/DSA/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->

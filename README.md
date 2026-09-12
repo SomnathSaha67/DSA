@@ -47,6 +47,7 @@ The folder hierarchy is organized by platform and core algorithmic topics. You c
 | ------- |
 | [0049-group-anagrams](https://github.com/SomnathSaha67/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/SomnathSaha67/DSA/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/SomnathSaha67/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SomnathSaha67/DSA/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/SomnathSaha67/DSA/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/SomnathSaha67/DSA/tree/master/0709-to-lower-case) |
@@ -66,6 +67,7 @@ The folder hierarchy is organized by platform and core algorithmic topics. You c
 | ------- |
 | [0001-two-sum](https://github.com/SomnathSaha67/DSA/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/SomnathSaha67/DSA/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/SomnathSaha67/DSA/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/SomnathSaha67/DSA/tree/master/0771-jewels-and-stones) |
 ## Array
 |  |
@@ -103,4 +105,5 @@ The folder hierarchy is organized by platform and core algorithmic topics. You c
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/SomnathSaha67/DSA/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/SomnathSaha67/DSA/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->

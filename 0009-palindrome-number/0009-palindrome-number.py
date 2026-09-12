@@ -4,7 +4,10 @@ class Solution(object):
         :type x: int
         :rtype: bool
         """
-        return str(x)==str(x)[::-1]
+        if x<0 or (x%10==0 and x!=0): return False
+        r=0
+        while x>r: x,r=x//10,r*10+x%10
+        return x==r or x==r//10
 
 # Synced seamlessly with LeetHub Pro
 # Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
